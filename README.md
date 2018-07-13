@@ -1,0 +1,1 @@
+This repositry contains code related to the novel Indian Dataset created by students from IIT Delhi and BharatiVidyapeeth's College Of Engineering. The dataset is still being filtered and is not out for public use, hence the repositry contains only codes related to benchmarking the dataset. 
